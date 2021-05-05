@@ -82,18 +82,4 @@ A step by step series of examples that tells what you have to do to get this pro
 * [Tor](https://www.torproject.org/) - If you don't know about Tor then you probably shouldn't be here :)
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Beautiful Soup is a Python library for pulling data out of HTML and XML files.
 
-## Contributing
 
-If you have new ideas which is worth implementing, mention those by starting a new issue with the title [FEATURE_REQUEST]. If the idea is worth implementing, congratz you are now a contributor.
-
-## Versioning
-
-Version 1.something Mehh...
-
-## Authors
-
-* **Shivam Kapoor** - An avid learner who likes to know every tiny detail in working of real life systems. Real enthusiast of cyber security and underlying networking concepts. (Email - kapoor.shivam88@gmail.com)
-
-## License
-
-Too lazy to decide on a License. zZzZ
